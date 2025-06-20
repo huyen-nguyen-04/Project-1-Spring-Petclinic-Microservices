@@ -2,7 +2,7 @@ pipeline {
     agent any
 
     environment {
-        REPOSITORY = 'git@github.com:huyen-nguyen-04/Project-2-Spring-Petclinic-Microservices.git'
+        REPOSITORY = 'git@github.com:huyen-nguyen-04/Project-1-Spring-Petclinic-Microservices.git'
     }
 
     stages {
