@@ -143,3 +143,5 @@ class PetResourceTest {
         return pet;
     }
 }
+
+// Test customer service
