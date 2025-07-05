@@ -57,6 +57,7 @@ class PetResourceTest {
             .andExpect(jsonPath("$.type.id").value(6));
     }
 
+    // Test customers service
     private Pet setupPet() {
         Owner owner = new Owner();
         owner.setFirstName("George");
